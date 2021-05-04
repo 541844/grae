@@ -3,13 +3,13 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
-
+//The orginal base code
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Grae',
       theme: ThemeData(
 
         primarySwatch: Colors.blue,
